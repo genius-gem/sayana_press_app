@@ -1,0 +1,12 @@
+﻿venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+build/
+dist/
+*.apk
+*.aab
+.vscode/
+.idea/
